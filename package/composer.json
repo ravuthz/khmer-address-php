@@ -1,0 +1,17 @@
+{
+    "name": "ravuthz/khmer-address",
+    "type": "library",
+    "description": "Khmer Address",
+    "autoload": {
+        "psr-4": {
+            "Ravuthz\\KhmerAddress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ravuthz",
+            "email": "ravuthz@gmail.com"
+        }
+    ],
+    "require": {}
+}
